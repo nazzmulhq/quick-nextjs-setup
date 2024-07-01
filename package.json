@@ -1,5 +1,5 @@
 {
-  "version": "1.0.52",
+  "version": "0.0.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -21,7 +21,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-project-starter-ssl",
+  "name": "quick-next.ts-setup",
   "module": "dist/qu.esm.js",
   "dependencies": {
     "chalk": "5.3.0",
