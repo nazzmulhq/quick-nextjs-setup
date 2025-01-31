@@ -1,7 +1,7 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "Quickly setup a Next.js project with TypeScript, ESLint & Prettier",
-  "homepage": "https://nazmulhaque.netlify.app/quick-eslint-prettier-setup",
+  "homepage": "https://nazmulhaque.netlify.app",
   "author": {
     "name": "Nazmul Haque",
     "email": "nazmul2018s@gmail.com",
@@ -35,7 +35,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "quick-eslint-prettier-setup",
+  "name": "nextjs-eslint-prettier-setup",
   "module": "dist/qu.esm.js",
   "dependencies": {
     "chalk": "5.3.0",
@@ -60,6 +60,6 @@
     "typescript": "^5.3.3"
   },
   "bin": {
-    "react-project-starter-ssl": "./src/index.js"
+    "nextjs-eslint-prettier-setup": "./src/index.js"
   }
 }
