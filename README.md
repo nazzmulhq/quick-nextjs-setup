@@ -39,19 +39,7 @@ cd my-app
 Step 3: In my-app directory open terminal and this comment
 
 ```
-npx quick-next.ts-setup
-```
-
-Step 4: Run npm/yarn Install package
-
-```
-yarn install
-```
-
-OR
-
-```
-npm install
+npx nextjs-eslint-prettier-setup
 ```
 
 Open the application with your code editor. It is good to use VSCode.
